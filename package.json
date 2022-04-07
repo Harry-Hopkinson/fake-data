@@ -1,0 +1,25 @@
+{
+	"name": "fake-data",
+	"version": "1.0.0",
+	"description": "A NPM Module that generates Fake Data.",
+	"main": "src/index.js",
+	"scripts": {
+		"compile": "tsc",
+		"typescript": "ts-node src/index.ts",
+		"javascript": "node src/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Harry-Hopkinson/fake-data.git"
+	},
+	"keywords": [],
+	"author": "harry-hopkinson",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Harry-Hopkinson/fake-data/issues"
+	},
+	"homepage": "https://github.com/Harry-Hopkinson/fake-data#readme",
+	"dependencies": {
+		"typescript": "^4.6.3"
+	}
+}
