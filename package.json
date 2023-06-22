@@ -21,7 +21,7 @@
     },
     "homepage": "https://github.com/Harry-Hopkinson/fake-data#readme",
     "dependencies": {
-        "typescript": "^4.6.3",
+        "typescript": "^5.0.0",
         "unique-random": "^3.0.0"
     },
     "devDependencies": {
